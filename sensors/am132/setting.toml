@@ -1,6 +1,6 @@
 # SSID is what you see as your wifi name
 # Replace MY_WIFI_SSID with your wifi name
-WIFI_SSID = "Byss"
+WIFI_SSID = "your_wifi"
 
 # Replace MY_WIFI_PASSWORD with you wifi password
-WIFI_PASSWORD = "HDZ940XCGIBOX"
+WIFI_PASSWORD = "your_pass"
