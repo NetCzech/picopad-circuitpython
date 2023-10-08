@@ -1,0 +1,8 @@
+# Replace MY_SSID with your wifi name
+WIFI_SSID = "Byss"
+
+# Replace MY_PASS with you wifi password
+WIFI_PASSWORD = "HDZ940XCGIBOX"
+
+# Telegram
+botToken = "5941921864:AAE0qPrsioT1-nZIIikZl7wdgvOxWuSIz2c"

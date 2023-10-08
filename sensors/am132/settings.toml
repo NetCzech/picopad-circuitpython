@@ -1,0 +1,8 @@
+# Replace MY_SSID with your wifi name
+WIFI_SSID = "MY_SSID"
+
+# Replace MY_PASS with you wifi password
+WIFI_PASSWORD = "MY_PASS"
+
+# Replace "TELEGRAM_API" with your Telegram API
+botToken = "TELEGRAM_API"
