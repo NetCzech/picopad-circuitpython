@@ -1,6 +1,6 @@
 My circuitPython programs and experiments for the [Picopad](https://picopad.eu/en/) gaming console will be published here.
 
-![https://s3.amazonaws.com/adafruit-circuit-python/CircuitPython_Repo_header_logo.png](https://s3.amazonaws.com/adafruit-circuit-python/CircuitPython_Repo_header_logo.png)
+![https://github.com/NetCzech/picopad-circuitpython/blob/91df28e958950e345725a6ee190e14890d07b6f1/CircuitPython__logo.png](https://github.com/NetCzech/picopad-circuitpython/blob/91df28e958950e345725a6ee190e14890d07b6f1/CircuitPython__logo.png)
 
 ---
 > **CircuitPython for Picopad:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://circuitpython.org/board/pajenicko_picopad/](https://circuitpython.org/board/pajenicko_picopad/)
